@@ -43,3 +43,8 @@ Retailer receives the produce and makes it available for purchase.
 Consumer enters Tracking ID to see the full journey of the produce.
 
 This ensure complete traceability and trust for all parties involved.
+
+🙌 Contribution
+
+Feel free to fork the repository and submit pull requests.
+Any suggestions or improvements are welcome!
