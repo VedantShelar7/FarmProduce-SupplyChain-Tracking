@@ -20,3 +20,26 @@ Track the journey of produce using a tracking ID for transparency.
 
 ✔ Main Homepage
 Entry point with links to all dashboards.
+
+
+🛠 Technologies Used
+
+HTML5 – Structure for all dashboards
+
+CSS3 – (If included) Styling and layout
+
+JavaScript – (If included) Dynamic interactions
+
+Basic Web Architecture – Static front-end prototype
+
+🌐 How It Works
+
+Farmer adds produce information (type, date harvested, quantity, batch ID).
+
+Distributor receives and verifies the batch, then updates status.
+
+Retailer receives the produce and makes it available for purchase.
+
+Consumer enters Tracking ID to see the full journey of the produce.
+
+This ensure complete traceability and trust for all parties involved.
